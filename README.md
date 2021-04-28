@@ -5,3 +5,5 @@ Sometimes, you'll come across a situation where you want to prevent an event fro
 The trouble comes when the user has not submitted the data correctly — as a developer, you want to prevent the submission to the server and give an error message saying what's wrong and what needs to be done to put things right. Some browsers support automatic form data validation features, but since many don't, you are advised to not rely on those and implement your own validation checks. Let's look at a simple example.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#preventing_default_behavior
+
+Live web: https://gitthuma.github.io/preventing-default-behavior/
